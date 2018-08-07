@@ -11,7 +11,7 @@ Clone this repo to your local directory.
 
 Open the script named 'linux_to_slack.sh' and replace WEBHOOK_URL with your URL.
 
-Provide permissions and execute the script,
+Setup permissions and execute the script,
 ```
 chmod +x linux_to_slack.sh
 ./linux_to_slack.sh "<your_message>"
